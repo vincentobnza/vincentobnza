@@ -46,8 +46,6 @@ delivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="Expo logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
