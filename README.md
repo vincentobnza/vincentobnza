@@ -1,13 +1,5 @@
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn badge" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram badge" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord badge" />
-</div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vincentobnza.vincentobnza" alt="Visitor badge" />
-</div>
 
 <h1 align="center">Hello there! I'm Vincent</h1><div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBkYm1sa21xN2l0OHo3dzIzdjducjV0M2RoMDRjOG5pYzFsYjhpdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" />
