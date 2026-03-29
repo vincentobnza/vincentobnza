@@ -1,6 +1,6 @@
 # Vincent
 
-**Full-stack software engineer** — I design and ship web products end to end: typed frontends and design systems, APIs and data models, and delivery that holds up after launch.
+**Software** — I design and ship web products end to end: typed frontends and design systems, APIs and data models, and delivery that holds up after launch.
 
 ---
 
