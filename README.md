@@ -19,8 +19,6 @@
 <p align="left">
 I'm Vincent, a software developer focused on building scalable, user-centered web applications with clean architecture and thoughtful UI.
 <br /><br />
-I'm based in Occidental Mindoro, Philippines.
-<br /><br />
 I work across modern frontend and backend stacks, creating responsive interfaces, robust APIs, and maintainable solutions for real-world products.
 <br /><br />
 My core strengths include JavaScript and TypeScript development, component-driven frontend architecture, and full-stack delivery using tools like React, Next.js, Vue.js, Laravel, Tailwind CSS, and SQL-based databases.
