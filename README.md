@@ -1,6 +1,6 @@
 # Vincent
 
-Software engineer focused on **scalable web applications**, clear architecture, and interfaces that hold up in production.
+Software Developer focused on **scalable web applications**, clear architecture, and interfaces that hold up in production.
 
 Day-to-day work spans **TypeScript**, **React**, **Next.js**, and **Vue**, with APIs and persistence in **Laravel**, **PostgreSQL**, **MySQL**, and **Supabase**. I care about maintainable code, sensible boundaries between layers, and shipping products teams can evolve.
 
