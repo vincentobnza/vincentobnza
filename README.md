@@ -19,8 +19,6 @@
 <p align="left">
 I'm Vincent, a software developer focused on building scalable, user-centered web applications with clean architecture and thoughtful UI.
 <br /><br />
-I'm based in Occidental Mindoro, Philippines.
-<br /><br />
 I work across modern frontend and backend stacks, creating responsive interfaces, robust APIs, and maintainable solutions for real-world products.
 <br /><br />
 My core strengths include JavaScript and TypeScript development, component-driven frontend architecture, and full-stack delivery using tools like React, Next.js, Vue.js, Laravel, Tailwind CSS, and SQL-based databases.
@@ -32,8 +30,6 @@ I enjoy turning ideas into polished digital experiences, continuously improving 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/expo/000020" height="40" alt="Expo logo" />
   <img width="12" />
