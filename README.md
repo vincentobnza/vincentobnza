@@ -20,14 +20,14 @@ I prioritize **architecture you can explain** — layers and ownership that matc
 
 ### Technical snapshot
 
-| Area | Tools & focus |
-|------|-----------------|
-| **Languages** | TypeScript, JavaScript, Java (where relevant) |
-| **Frontend** | React, Next.js, Vue, Expo, Tailwind CSS |
-| **Backend** | Laravel, Node ecosystem patterns as needed |
-| **Data** | PostgreSQL, MySQL, Supabase |
-| **Platform** | .NET / VB.NET when the stack requires it |
-| **Workflow** | Git, npm, Figma |
+| Area          | Tools & focus                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------ |
+| **Languages** | TypeScript, JavaScript, Java (where relevant)                                              |
+| **Frontend**  | React, Next.js, Vue, Expo, Tailwind CSS, UI LIBRARIES (MUI, SHADCN, CHAKRA, DAISY, etc...) |
+| **Backend**   | Laravel, Node ecosystem patterns as needed                                                 |
+| **Data**      | PostgreSQL, MySQL, Supabase                                                                |
+| **Platform**  | .NET / VB.NET, ELECTRON                                                                    |
+| **Workflow**  | Git, NPM, Figma, Github                                                                    |
 
 ---
 
