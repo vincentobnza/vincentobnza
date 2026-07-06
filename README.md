@@ -1,74 +1,64 @@
-# Vincent
+<h1 align="center">Vincent Obenza</h1>
 
-**Software** — I design and ship web products end to end: typed frontends and design systems, APIs and data models, and delivery that holds up after launch.
+<p align="center">
+  <b>Software Developer</b>
+</p>
 
----
+<p align="center">
+  Building web products end to end —<br/>
+  typed frontends, pragmatic APIs, and delivery that holds up after launch.
+</p>
 
-### What I work on
-
-- **Product-facing web apps** — Responsive UIs with **React**, **Next.js**, **Vue**, and **Expo** when mobile is part of the story. Component-driven structure, consistent patterns, and **Tailwind CSS** for speed without sacrificing maintainability. UI kits include **MUI**, **shadcn/ui**, **Chakra UI**, **DaisyUI**, and similar when the product calls for them.
-- **Backend & data** — REST-style and application APIs with **Laravel** where that fits the stack; **Node**-style patterns when the codebase demands it. Persistence on **PostgreSQL**, **MySQL**, and **Supabase**, with attention to schema design, migrations, and indexing for real workloads.
-- **Quality & longevity** — **TypeScript** and **JavaScript** with clear types, small modules, and boundaries that make refactors and onboarding cheaper. **Git** and **GitHub** for reviewable, traceable change; **Figma** for aligning build with design intent.
-
----
-
-### How I approach the work
-
-I prioritize **architecture you can explain** — layers and ownership that fit the team, not ceremony for its own sake. I care about **performance and UX** where users feel them, **accessibility** as a baseline, and code the next developer can navigate quickly.
-
----
-
-### Technical snapshot
-
-Skills below use the same stack referenced in the sections above.
-
-#### Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="TypeScript" /> TypeScript &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" />
-Java &nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="Java" />
-PHP
-
-#### Frontend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" /> React &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" /> Next.js &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" alt="Vue" /> Vue &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/expo/000020" height="20" alt="Expo" /> Expo &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="20" alt="Tailwind CSS" /> Tailwind CSS &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mui/007FFF" height="20" alt="MUI" /> MUI &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=shadcn" height="20" alt="shadcn/ui" /> shadcn/ui &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chakraui/319795" height="20" alt="Chakra UI" /> Chakra UI &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="20" alt="DaisyUI" /> DaisyUI
-
-#### Backend & runtime
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="20" alt="Laravel" /> Laravel &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js" /> Node.js
-
-#### Data
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL" /> PostgreSQL &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL" /> MySQL &nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase" height="20" alt="Supabase" /> Supabase
-
-#### Desktop & platform
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="20" alt=".NET" /> .NET &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" alt="Electron" /> Electron
-
-#### Workflow & design
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" /> Git &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/npm/CB3837" height="20" alt="npm" /> npm &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="GitHub" /> GitHub &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" /> Figma
+<p align="center">
+  <a href="https://github.com/vincentobnza">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/vincentobnza">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-### Connect
+### About
 
-**GitHub:** [github.com/vincentobnza](https://github.com/vincentobnza) · **LinkedIn:** [linkedin.com/in/vincentobnza](https://www.linkedin.com/in/vincentobnza)
+I design and ship full-stack web applications — from component-driven UIs and design systems to APIs, data models, and the infrastructure that keeps them maintainable. I care about architecture you can explain, performance where users feel it, and accessibility as a baseline.
+
+### Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to collaboration and interesting problems.</sub>
+</p>
