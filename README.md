@@ -17,18 +17,18 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>&#128421;&nbsp; Frontend & Mobile</h3>
+      <h3>Frontend & Mobile</h3>
       Component-driven web UIs with React, Next.js, and Vue — plus
       cross-platform mobile apps built and shipped with Expo (React Native).
       Design systems, accessible patterns, and Tailwind throughout.
     </td>
     <td width="33%" valign="top">
-      <h3>&#9881;&nbsp; Backend & Data</h3>
+      <h3>Backend & Data</h3>
       Application APIs with Laravel and Node. Relational modeling on
       PostgreSQL, MySQL, and Supabase — schemas built for real workloads.
     </td>
     <td width="33%" valign="top">
-      <h3>&#10003;&nbsp; Quality & Delivery</h3>
+      <h3>Quality & Delivery</h3>
       Typed codebases, small modules, and clear boundaries. Reviewable
       change with Git, aligned to design intent in Figma.
     </td>
